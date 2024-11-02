@@ -1,0 +1,25 @@
+Course Introduction
+IAC - Infrastructure as Code
+Infrastucture Provisioning Tool
+                --  Multiple Providers
+                 -- Declarative Aproach
+                 -- Written in HCL : Hashicorp Language
+                 
+Download Terraform for Windows
+#Terraform version
+
+                 Terraform Init 
+                 Terraform Plan
+                 Terraform Apply
+                      -auto-approve : yes/No
+                 Terraform show
+                terraform destroy
+Terraform supports multiple Providers
+Registry.terraform.io
+Argumenets are optional or Required
+.tf extension
+main.tf can contain all configuration files
+variables.tf
+providers.tf
+terraform.tf
+output.tf
